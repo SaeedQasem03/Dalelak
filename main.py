@@ -44,3 +44,5 @@ with open("output.txt", "w", encoding="utf-8") as output_file:
                 output_file.write(f"  - Wikidata ID: {link['wikidata_id']}, Label: {link['label']}, Description: {link['description']}\n")
         
         output_file.write("\n")  
+
+print("cleaning")
