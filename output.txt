@@ -1,0 +1,110 @@
+Contract 1 Named Entities:
+الرياض [LOC]
+  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
+أحمد الخالدي [PER]
+  - Wikidata ID: Q125492011, Label: أحمد الخالدي, Description: None
+الرياض [LOC]
+  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
+ريال [MISC]
+  - Wikidata ID: Q240512, Label: Yemeni Rial, Description: Official currency of Yemen
+الرياض [LOC]
+  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
+الرياض [LOC]
+  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
+
+Contract 2 Named Entities:
+جدة [LOC]
+  - Wikidata ID: Q374365, Label: Jeddah, Description: city in Saudi Arabia
+سامي المطيري [PER]
+جدة [LOC]
+  - Wikidata ID: Q374365, Label: Jeddah, Description: city in Saudi Arabia
+الرياضيات [MISC]
+  - Wikidata ID: Q395, Label: mathematics, Description: field of study
+جدة [LOC]
+  - Wikidata ID: Q374365, Label: Jeddah, Description: city in Saudi Arabia
+
+Contract 3 Named Entities:
+الدمام [LOC]
+  - Wikidata ID: Q160320, Label: Dammam, Description: port city in the Eastern Province, Saudi Arabia
+خالد الفارس [PER]
+الدمام [LOC]
+  - Wikidata ID: Q160320, Label: Dammam, Description: port city in the Eastern Province, Saudi Arabia
+ريال [MISC]
+  - Wikidata ID: Q240512, Label: Yemeni Rial, Description: Official currency of Yemen
+الدمام [LOC]
+  - Wikidata ID: Q160320, Label: Dammam, Description: port city in the Eastern Province, Saudi Arabia
+الدمام [LOC]
+  - Wikidata ID: Q160320, Label: Dammam, Description: port city in the Eastern Province, Saudi Arabia
+
+Contract 4 Named Entities:
+ريال [MISC]
+  - Wikidata ID: Q240512, Label: Yemeni Rial, Description: Official currency of Yemen
+
+Contract 5 Named Entities:
+القطيف [LOC]
+  - Wikidata ID: Q847660, Label: Qatif governorate, Description: governorate in Saudi Arabia
+مالك النجار [PER]
+القطيف [LOC]
+  - Wikidata ID: Q847660, Label: Qatif governorate, Description: governorate in Saudi Arabia
+ريال [MISC]
+  - Wikidata ID: Q240512, Label: Yemeni Rial, Description: Official currency of Yemen
+القطيف [LOC]
+  - Wikidata ID: Q847660, Label: Qatif governorate, Description: governorate in Saudi Arabia
+القطيف [LOC]
+  - Wikidata ID: Q847660, Label: Qatif governorate, Description: governorate in Saudi Arabia
+
+Contract 6 Named Entities:
+الرياض [LOC]
+  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
+علي الحمدان [PER]
+الرياض [LOC]
+  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
+ريال [MISC]
+  - Wikidata ID: Q240512, Label: Yemeni Rial, Description: Official currency of Yemen
+الرياض [LOC]
+  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
+الرياض [LOC]
+  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
+
+Contract 7 Named Entities:
+جدة [LOC]
+  - Wikidata ID: Q374365, Label: Jeddah, Description: city in Saudi Arabia
+فهد القحطاني [PER]
+  - Wikidata ID: Q115475028, Label: فهد القحطاني, Description: Saudi association football player
+جدة [LOC]
+  - Wikidata ID: Q374365, Label: Jeddah, Description: city in Saudi Arabia
+جدة [LOC]
+  - Wikidata ID: Q374365, Label: Jeddah, Description: city in Saudi Arabia
+
+Contract 8 Named Entities:
+الدمام [LOC]
+  - Wikidata ID: Q160320, Label: Dammam, Description: port city in the Eastern Province, Saudi Arabia
+خالد الشمري [PER]
+  - Wikidata ID: Q6399314, Label: Khaled Al Shammari, Description: footballer
+الدمام [LOC]
+  - Wikidata ID: Q160320, Label: Dammam, Description: port city in the Eastern Province, Saudi Arabia
+ريال [MISC]
+  - Wikidata ID: Q240512, Label: Yemeni Rial, Description: Official currency of Yemen
+الدمام [LOC]
+  - Wikidata ID: Q160320, Label: Dammam, Description: port city in the Eastern Province, Saudi Arabia
+الدمام [LOC]
+  - Wikidata ID: Q160320, Label: Dammam, Description: port city in the Eastern Province, Saudi Arabia
+
+Contract 9 Named Entities:
+فيصل الدوسري [PER]
+  - Wikidata ID: Q28075922, Label: فيصل الدوسري, Description: association football player
+ريال [MISC]
+  - Wikidata ID: Q240512, Label: Yemeni Rial, Description: Official currency of Yemen
+
+Contract 10 Named Entities:
+الرياض [LOC]
+  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
+عبدالله العتيبي [PER]
+  - Wikidata ID: Q28717460, Label: عبدالله العتيبي, Description: actor
+الرياض [LOC]
+  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
+ريال [MISC]
+  - Wikidata ID: Q240512, Label: Yemeni Rial, Description: Official currency of Yemen
+الرياض [LOC]
+  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
+
