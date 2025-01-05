@@ -1,110 +1,95 @@
 Contract 1 Named Entities:
-الرياض [LOC]
-  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
-أحمد الخالدي [PER]
-  - Wikidata ID: Q125492011, Label: أحمد الخالدي, Description: None
-الرياض [LOC]
-  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
-ريال [MISC]
-  - Wikidata ID: Q240512, Label: Yemeni Rial, Description: Official currency of Yemen
-الرياض [LOC]
-  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
-الرياض [LOC]
-  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
+عمّان [LOC]
+  - Wikidata ID: Q842, Label: Oman, Description: sovereign state in western Asia
+شارع الملكة رانيا [LOC]
+نور الدين محمود العمري [PER]
+العقبة [LOC]
+  - Wikidata ID: Q260796, Label: Aqaba Governorate, Description: governorate of Jordan
+حي الشاطئ [LOC]
+  - Wikidata ID: Q6764745, Label: حي الشاطئ, Description: None
+شارع اليمامة [LOC]
 
 Contract 2 Named Entities:
-جدة [LOC]
-  - Wikidata ID: Q374365, Label: Jeddah, Description: city in Saudi Arabia
-سامي المطيري [PER]
-جدة [LOC]
-  - Wikidata ID: Q374365, Label: Jeddah, Description: city in Saudi Arabia
-الرياضيات [MISC]
-  - Wikidata ID: Q395, Label: mathematics, Description: field of study
-جدة [LOC]
-  - Wikidata ID: Q374365, Label: Jeddah, Description: city in Saudi Arabia
+الاستثمارات المالية العربية [ORG]
+عمّان [LOC]
+  - Wikidata ID: Q842, Label: Oman, Description: sovereign state in western Asia
+شارع الجامعة [LOC]
+  - Wikidata ID: Q12185328, Label: Queen Rania Street, Amman, Description: None
+فراس خالد الراجحي [PER]
+إربد [LOC]
+  - Wikidata ID: Q194165, Label: Irbid, Description: city in Jordan
+شارع الملك حسين [LOC]
 
 Contract 3 Named Entities:
-الدمام [LOC]
-  - Wikidata ID: Q160320, Label: Dammam, Description: port city in the Eastern Province, Saudi Arabia
-خالد الفارس [PER]
-الدمام [LOC]
-  - Wikidata ID: Q160320, Label: Dammam, Description: port city in the Eastern Province, Saudi Arabia
-ريال [MISC]
-  - Wikidata ID: Q240512, Label: Yemeni Rial, Description: Official currency of Yemen
-الدمام [LOC]
-  - Wikidata ID: Q160320, Label: Dammam, Description: port city in the Eastern Province, Saudi Arabia
-الدمام [LOC]
-  - Wikidata ID: Q160320, Label: Dammam, Description: port city in the Eastern Province, Saudi Arabia
+عمّان [LOC]
+  - Wikidata ID: Q842, Label: Oman, Description: sovereign state in western Asia
+شارع الأمير حسن [LOC]
+عمر ياسين الخطيب [PER]
+الزرقاء [LOC]
+  - Wikidata ID: Q148062, Label: Zarqa, Description: city in Jordan
+حي البتراء [LOC]
+شارع الشهداء [LOC]
+  - Wikidata ID: Q16740129, Label: Al-Shuhada Street, Description: street
 
 Contract 4 Named Entities:
-ريال [MISC]
-  - Wikidata ID: Q240512, Label: Yemeni Rial, Description: Official currency of Yemen
+عمّان [LOC]
+  - Wikidata ID: Q842, Label: Oman, Description: sovereign state in western Asia
+شارع الدستور [LOC]
+ليلى أحمد القاسم [PER]
+مادبا [LOC]
+  - Wikidata ID: Q750447, Label: Madaba Governorate, Description: governorate of Jordan
+حي النسيم [LOC]
+  - Wikidata ID: Q12209484, Label: حي النسيم, Description: None
+شارع الملك فيصل [LOC]
+  - Wikidata ID: Q12218079, Label: King Faisal Street, Description: street in Aleppo, Syria
 
 Contract 5 Named Entities:
-القطيف [LOC]
-  - Wikidata ID: Q847660, Label: Qatif governorate, Description: governorate in Saudi Arabia
-مالك النجار [PER]
-القطيف [LOC]
-  - Wikidata ID: Q847660, Label: Qatif governorate, Description: governorate in Saudi Arabia
-ريال [MISC]
-  - Wikidata ID: Q240512, Label: Yemeni Rial, Description: Official currency of Yemen
-القطيف [LOC]
-  - Wikidata ID: Q847660, Label: Qatif governorate, Description: governorate in Saudi Arabia
-القطيف [LOC]
-  - Wikidata ID: Q847660, Label: Qatif governorate, Description: governorate in Saudi Arabia
+اللوجستيات المتقدمة [ORG]
+عمّان [LOC]
+  - Wikidata ID: Q842, Label: Oman, Description: sovereign state in western Asia
+شارع الحرية [LOC]
+  - Wikidata ID: Q12218060, Label: Avenue de la Liberté, Description: street in Tunis, Tunisia
+سمير أمين الباز [PER]
+السلط [LOC]
+  - Wikidata ID: Q867586, Label: Salt, Description: city in Jordan
+حي الجندويل [LOC]
+شارع الملك عبدالله [LOC]
+  - Wikidata ID: Q12218078, Label: شارع الملك عبدالله الثاني, Description: street in Jordan
 
 Contract 6 Named Entities:
-الرياض [LOC]
-  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
-علي الحمدان [PER]
-الرياض [LOC]
-  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
-ريال [MISC]
-  - Wikidata ID: Q240512, Label: Yemeni Rial, Description: Official currency of Yemen
-الرياض [LOC]
-  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
-الرياض [LOC]
-  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
+عمّان [LOC]
+  - Wikidata ID: Q842, Label: Oman, Description: sovereign state in western Asia
+شارع الجامعة العربية [LOC]
+أحمد سليم الناصر [PER]
+جرش [LOC]
+  - Wikidata ID: Q31565, Label: Jerash, Description: city in Jordan
+حي البساتين [LOC]
+  - Wikidata ID: Q4165848, Label: Al Basatin, Description: neighbourhood in Egypt
+شارع الأقصى [LOC]
 
 Contract 7 Named Entities:
-جدة [LOC]
-  - Wikidata ID: Q374365, Label: Jeddah, Description: city in Saudi Arabia
-فهد القحطاني [PER]
-  - Wikidata ID: Q115475028, Label: فهد القحطاني, Description: Saudi association football player
-جدة [LOC]
-  - Wikidata ID: Q374365, Label: Jeddah, Description: city in Saudi Arabia
-جدة [LOC]
-  - Wikidata ID: Q374365, Label: Jeddah, Description: city in Saudi Arabia
+الإعلام الرقمي العربية [ORG]
+عمّان [LOC]
+  - Wikidata ID: Q842, Label: Oman, Description: sovereign state in western Asia
+شارع الحرية [LOC]
+  - Wikidata ID: Q12218060, Label: Avenue de la Liberté, Description: street in Tunis, Tunisia
+تميم خالد الفايز [PER]
+إربد [LOC]
+  - Wikidata ID: Q194165, Label: Irbid, Description: city in Jordan
+حي الأميرة [LOC]
+  - Wikidata ID: Q19490687, Label: حي الأميرة ربة النسب, Description: poem written by Kahlil Gibran
+شارع الملكة رانيا [LOC]
 
 Contract 8 Named Entities:
-الدمام [LOC]
-  - Wikidata ID: Q160320, Label: Dammam, Description: port city in the Eastern Province, Saudi Arabia
-خالد الشمري [PER]
-  - Wikidata ID: Q6399314, Label: Khaled Al Shammari, Description: footballer
-الدمام [LOC]
-  - Wikidata ID: Q160320, Label: Dammam, Description: port city in the Eastern Province, Saudi Arabia
-ريال [MISC]
-  - Wikidata ID: Q240512, Label: Yemeni Rial, Description: Official currency of Yemen
-الدمام [LOC]
-  - Wikidata ID: Q160320, Label: Dammam, Description: port city in the Eastern Province, Saudi Arabia
-الدمام [LOC]
-  - Wikidata ID: Q160320, Label: Dammam, Description: port city in the Eastern Province, Saudi Arabia
-
-Contract 9 Named Entities:
-فيصل الدوسري [PER]
-  - Wikidata ID: Q28075922, Label: فيصل الدوسري, Description: association football player
-ريال [MISC]
-  - Wikidata ID: Q240512, Label: Yemeni Rial, Description: Official currency of Yemen
-
-Contract 10 Named Entities:
-الرياض [LOC]
-  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
-عبدالله العتيبي [PER]
-  - Wikidata ID: Q28717460, Label: عبدالله العتيبي, Description: actor
-الرياض [LOC]
-  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
-ريال [MISC]
-  - Wikidata ID: Q240512, Label: Yemeni Rial, Description: Official currency of Yemen
-الرياض [LOC]
-  - Wikidata ID: Q3692, Label: Riyadh, Description: capital and largest city of Saudi Arabia
+الطاقة الخضراء الأردنية [ORG]
+عمّان [LOC]
+  - Wikidata ID: Q842, Label: Oman, Description: sovereign state in western Asia
+شارع الأردن [LOC]
+  - Wikidata ID: Q12183374, Label: شارع الأردن, Description: street in Jordan
+عبد الرحمن المومني [PER]
+الكرك [LOC]
+  - Wikidata ID: Q735245, Label: Karak Governorate, Description: governorate of Jordan
+حي الشميساني [LOC]
+شارع البيئة [LOC]
+  - Wikidata ID: Q12218049, Label: شارع البيئة, Description: street in Tunisia
 
