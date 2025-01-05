@@ -26,7 +26,7 @@ def get_wikidata_links(entity):
     return None
 
 l = []
-with jsonlines.open("extracted_text.jsonl") as reader:
+with jsonlines.open("text.jsonl") as reader:
     for obj in reader:
         if "contract" in obj:
             l.append(obj)
